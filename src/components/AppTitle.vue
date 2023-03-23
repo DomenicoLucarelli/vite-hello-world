@@ -13,8 +13,9 @@ export default {
 
 <style >
 span {
-    color: red;
+    color: white;
     font-size: 30px;
     font-weight: bold;
+    position: absolute;
 }
 </style>
